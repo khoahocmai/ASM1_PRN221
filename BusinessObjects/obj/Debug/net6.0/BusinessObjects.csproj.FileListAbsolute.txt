@@ -1,0 +1,15 @@
+D:\CN\CN7\PRN221-ChienNV33\Assignment_1\KhoaDDDSE170285_NET1701_A01\BusinessObjects\bin\Debug\net6.0\BusinessObjects.deps.json
+D:\CN\CN7\PRN221-ChienNV33\Assignment_1\KhoaDDDSE170285_NET1701_A01\BusinessObjects\bin\Debug\net6.0\BusinessObjects.runtimeconfig.json
+D:\CN\CN7\PRN221-ChienNV33\Assignment_1\KhoaDDDSE170285_NET1701_A01\BusinessObjects\bin\Debug\net6.0\BusinessObjects.dll
+D:\CN\CN7\PRN221-ChienNV33\Assignment_1\KhoaDDDSE170285_NET1701_A01\BusinessObjects\bin\Debug\net6.0\BusinessObjects.pdb
+D:\CN\CN7\PRN221-ChienNV33\Assignment_1\KhoaDDDSE170285_NET1701_A01\BusinessObjects\obj\Debug\net6.0\BusinessObjects.csproj.AssemblyReference.cache
+D:\CN\CN7\PRN221-ChienNV33\Assignment_1\KhoaDDDSE170285_NET1701_A01\BusinessObjects\obj\Debug\net6.0\BusinessObjects.GeneratedMSBuildEditorConfig.editorconfig
+D:\CN\CN7\PRN221-ChienNV33\Assignment_1\KhoaDDDSE170285_NET1701_A01\BusinessObjects\obj\Debug\net6.0\BusinessObjects.AssemblyInfoInputs.cache
+D:\CN\CN7\PRN221-ChienNV33\Assignment_1\KhoaDDDSE170285_NET1701_A01\BusinessObjects\obj\Debug\net6.0\BusinessObjects.AssemblyInfo.cs
+D:\CN\CN7\PRN221-ChienNV33\Assignment_1\KhoaDDDSE170285_NET1701_A01\BusinessObjects\obj\Debug\net6.0\BusinessObjects.csproj.CoreCompileInputs.cache
+D:\CN\CN7\PRN221-ChienNV33\Assignment_1\KhoaDDDSE170285_NET1701_A01\BusinessObjects\obj\Debug\net6.0\BusinessObjects.dll
+D:\CN\CN7\PRN221-ChienNV33\Assignment_1\KhoaDDDSE170285_NET1701_A01\BusinessObjects\obj\Debug\net6.0\refint\BusinessObjects.dll
+D:\CN\CN7\PRN221-ChienNV33\Assignment_1\KhoaDDDSE170285_NET1701_A01\BusinessObjects\obj\Debug\net6.0\BusinessObjects.pdb
+D:\CN\CN7\PRN221-ChienNV33\Assignment_1\KhoaDDDSE170285_NET1701_A01\BusinessObjects\obj\Debug\net6.0\BusinessObjects.genruntimeconfig.cache
+D:\CN\CN7\PRN221-ChienNV33\Assignment_1\KhoaDDDSE170285_NET1701_A01\BusinessObjects\obj\Debug\net6.0\ref\BusinessObjects.dll
+D:\CN\CN7\PRN221-ChienNV33\Assignment_1\KhoaDDDSE170285_NET1701_A01\BusinessObjects\bin\Debug\net6.0\appsettings.json

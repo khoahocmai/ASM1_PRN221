@@ -1,0 +1,24 @@
+﻿<Window x:Class="DoDuongDangKhoaWPF.CustomerEditWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:DoDuongDangKhoaWPF"
+        mc:Ignorable="d"
+        Title="Customer Edit Window" Height="420" Width="450"
+        WindowStartupLocation="CenterScreen"
+        >
+    <Grid Width="1254" Height="662" >
+        <Label Content="Fullname:" HorizontalAlignment="Left" Margin="10,10,0,0" VerticalAlignment="Top"/>
+        <TextBox Margin="10,36,845,599" Name="txtCusFullname" />
+        <Label Content="Telephone:" HorizontalAlignment="Left" Margin="10,68,0,0" VerticalAlignment="Top"/>
+        <TextBox Margin="11,99,845,536" Name="txtCusPhone" />
+        <Label Content="Email Address:" HorizontalAlignment="Left" Margin="10,131,0,0" VerticalAlignment="Top"/>
+        <TextBox Margin="10,162,845,473" Name="txtCusEmail" />
+        <Label Content="Day of Birth:" HorizontalAlignment="Left" Margin="10,194,0,0" VerticalAlignment="Top"/>
+        <DatePicker Name="dpCusDOB" Margin="10,225,845,410"/>
+        <Label Content="Password:" HorizontalAlignment="Left" Margin="10,257,0,0" VerticalAlignment="Top"/>
+        <TextBox HorizontalAlignment="Left" Margin="10,288,0,0" VerticalAlignment="Top" Width="399" Height="27" Name="txtPassword"/>
+        <Button Content="Save" HorizontalAlignment="Left" Margin="158,347,0,0" VerticalAlignment="Top" Height="32" Width="104" Name="btnSave" Click="btnSave_Click"/>
+    </Grid>
+</Window>

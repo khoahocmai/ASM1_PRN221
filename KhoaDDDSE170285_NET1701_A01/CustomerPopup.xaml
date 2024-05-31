@@ -1,0 +1,25 @@
+﻿<Window x:Class="DoDuongDangKhoaWPF.CustomerPopup"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:DoDuongDangKhoaWPF"
+        mc:Ignorable="d"
+        Title="Customer Popup" Height="288" Width="469"
+        WindowStartupLocation="CenterScreen"
+        >
+    <Grid>
+        <StackPanel Margin="10">
+            <!-- Add customer input fields here -->
+            <Label Content="Full Name:"/>
+            <TextBox Name="txtCusFullname"/>
+            <Label Content="Email:"/>
+            <TextBox Name="txtCusEmail"/>
+            <Label Content="Phone:"/>
+            <TextBox x:Name="txtCusPhone"/>
+            <Label Content="Date of Birth:"/>
+            <DatePicker Name="dpCusDOB"/>
+            <Button Content="Add Customer" Name="btnAddUpdate" Click="btnAddUpdate_Click" HorizontalAlignment="Center" Margin="0 20 0 0"/>
+        </StackPanel>
+    </Grid>
+</Window>

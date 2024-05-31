@@ -1,0 +1,13 @@
+is_global = true
+build_property.TargetFramework = net6.0-windows
+build_property.TargetPlatformMinVersion = 7.0
+build_property.UsingMicrosoftNETSdkWeb = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = DoDuongDangKhoaWPF_uenov3ku_wpftmp
+build_property.ProjectDir = D:\CN\CN7\PRN221-ChienNV33\Assignment_1\KhoaDDDSE170285_NET1701_A01\KhoaDDDSE170285_NET1701_A01\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
